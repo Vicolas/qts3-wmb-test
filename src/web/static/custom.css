@@ -1,0 +1,9 @@
+input[type="submit"] {
+    background-color: blue !important; /* Change the button color to blue */
+    color: white; /* Ensures the text is visible */
+}
+
+a[role="button"] {
+    background-color: blue !important;
+    color: white;
+}
